@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://forest-harbor-hotel.1gb.ua
+Data file = /home/virtwww/w_forest-harbor-hotel_8c0f5534/http/wp-content/uploads/2023/04/demo-content-import-file_2023-04-01__14-55-27.xml
+Widget file = /home/virtwww/w_forest-harbor-hotel_8c0f5534/http/wp-content/uploads/2023/04/demo-widgets-import-file_2023-04-01__14-55-27.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Text - Follow us - Imported
+
+Front Page Sidebar : 
+
+Search Availability - No Title - Imported
+
+
+
+---ocdi/after_import---
+
